@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "version_code": 1,
-  "apk_url": "https://github.com/YOUR_GITHUB_USERNAME/allplay-updates/releases/download/v1.0.0/AllPlay.apk",
-  "changelog": "First release."
+  "version": "1.0.1",
+  "version_code": 2,
+  "apk_url": "https://github.com/Unicorn2911/Allplay-Updates/releases/download/v1.0.1/AllPlay-v1.0.1.apk",
+  "changelog": "Anime streaming now works in-app with 1080p quality.\nHindi movies section added.\nTorrentio stream picker for movies.\nBug fixes and performance improvements."
 }
