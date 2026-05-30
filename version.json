@@ -2,5 +2,5 @@
   "version": "1.0.2",
   "version_code": 3,
   "apk_url": "https://github.com/Unicorn2911/Allplay-Updates/releases/download/v1.0.2/AllPlay-v1.0.2.apk",
-  "changelog": "Fixed anime streaming in release build.\nSSL fix for all devices.\n1080p in-app anime player working.\Thank you adyasis and debopriya."
+  "changelog": "Fixed anime streaming in release build.\nSSL fix for all devices.\n1080p in-app anime player working."
 }
