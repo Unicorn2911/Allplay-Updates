@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "version_code": 5,
-  "apk_url": "https://github.com/Unicorn2911/Allplay-Updates/releases/download/v1.1.0/AllPlay-v1.1.0.apk",
-  "changelog": "Complete Netflix-style redesign.\nNew home screen with hero banner.\nDetail screen with inline episodes + thumbnails.\nAnime, Movies & TV Shows all working.\nSplash screen + smooth animations."
+  "version": "1.1.1",
+  "version_code": 6,
+  "apk_url": "https://github.com/Unicorn2911/Allplay-Updates/releases/download/v1.1.1/AllPlay-v1.1.1.apk",
+  "changelog": "Fixed auto-update installer.\nAPK now saves to Downloads folder.\n3 video servers (VidLink, VidSrc, VidFast).\nThanks Adyasis for the review."
 }
